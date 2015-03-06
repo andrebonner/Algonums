@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Unit Converter</title>
+	
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+	
+	<!-- Algonums references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="js/numbers.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+	<h1 id="title">Unit Converter</h1>
+		<p>
+			<table>
+				<tr><td colspan="2">
+		<select>
+			<option>Temprature</option>
+			<option>Currency</option>
+			<option>Volume</option>
+			<option>Mass</option>
+			<option>Length</option>
+			<option>Speed</option>
+			<option>Area</option>
+			<option>Fuel Consumption</option>
+			<option>Time</option>
+			<option>Digital Storage</option>
+		</select></td></tr>
+		<tr><td>
+		<label>From:
+		<select>
+			<option>Celsius</option>
+			<option>Fahrehiet</option>
+		</select>
+		</label>
+		</td>
+		<td>
+		<label>To:
+		<select>
+			<option>Celsius</option>
+			<option>Fahrehiet</option>
+		</select>
+		</label></td>
+		</tr>
+		<tr><td colspan="2">	
+		<label>Number:
+			<input id="txtNumber" type="text">
+		</label>
+		</td></tr>
+		<tr><td colspan="2">
+		<button id="btnSubmit" type="button">Convert</button></td></tr>
+		<tr><td colspan="2">
+		<div id="lblResult">label</div>
+		</td></tr>
+		</table>
+		</p>	
+		<header aria-label="Header content" role="banner"><button data-win-control="WinJS.UI.BackButton"></button></header>
+	</div>
+</body>
+</html>

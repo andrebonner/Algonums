@@ -1,0 +1,15 @@
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bin\Debug\ReverseMap\resources.pri
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bin\Debug\AppxManifest.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bin\Debug\Algonums.build.appxrecipe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\priconfig.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\priconfig.xml.intermediate
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\layout.resfiles
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\layout.resfiles.intermediate
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\resources.resfiles
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\resources.resfiles.intermediate
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\pri.resfiles
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\pri.resfiles.intermediate
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\qualifiers.txt
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\ProjectArchitectures.txt

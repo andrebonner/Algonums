@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MICO_LAPTOP</Machine>
+    <WindowsUser>Mico_Ultrabook</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0b914646-dbe8-4a88-9f5c-30389d489cb0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\binarydecimal.html">
+      <PackagePath>pages\numbers\binarydecimal.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\calculator.html">
+      <PackagePath>pages\numbers\calculator.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\changereturn.html">
+      <PackagePath>pages\numbers\changereturn.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\default.html">
+      <PackagePath>pages\numbers\default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\e.html">
+      <PackagePath>pages\numbers\e.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\fibonacci.html">
+      <PackagePath>pages\numbers\fibonacci.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\mortgagecal.html">
+      <PackagePath>pages\numbers\mortgagecal.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\nextprime.html">
+      <PackagePath>pages\numbers\nextprime.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\primef.html">
+      <PackagePath>pages\numbers\primef.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\pi.html">
+      <PackagePath>pages\numbers\pi.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\titlecost.html">
+      <PackagePath>pages\numbers\titlecost.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\pages\numbers\js\numbers.js">
+      <PackagePath>pages\numbers\js\numbers.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\ReadMe.txt">
+      <PackagePath>ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\JS\Algonums\Algonums\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

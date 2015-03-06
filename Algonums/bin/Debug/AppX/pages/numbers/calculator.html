@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title>
+	
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+	
+	<!-- Algonums references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="js/numbers.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+	<h1 id="title">Calculator</h1>
+		<p>
+			<table id="tblCalcu">
+				<tr>
+					<td colspan="7">
+						<div id="lblCalculation">"Calculation"</div>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="7">
+						<input id="txtResult" type="text" value="0">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="btnRad" class="operators" type="button">Rad</button>
+					</td>
+					<td>
+						<button id="btnDeg" class="operators" type="button">Deg</button>
+					</td>
+					<td>
+						<button id="btnLBrac" class="operators" type="button">(</button>
+					</td>
+						<td>
+						<button id="btnRBrac" class="operators" type="button">)</button>
+					</td>
+					<td>
+						<button id="btnXCl" class="operators" type="button">X!</button>
+					</td>
+					<td>
+						<button id="btnPerCent" class="operators" type="button">%</button>
+					</td>
+					<td>
+						<button id="btnAC" class="operators" type="button">AC</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="btnInv" class="operators" type="button">Inv</button>
+					</td>
+					<td>
+						<button id="btnSin" class="operators" type="button">sin</button>
+					</td>
+					<td>
+						<button id="btnIn" class="operators" type="button">In</button>
+					</td>
+						<td>
+						<button id="btnSeven" class="operands" type="button">7</button>
+					</td>
+					<td>
+						<button id="btnEight" class="operands" type="button">8</button>
+					</td>
+					<td>
+						<button id="btnNine" class="operands" type="button">9</button>
+					</td>
+					<td>
+						<button id="btnDiv" class="operators" type="button">/</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="btnPi" class="operators" type="button">Pi</button>
+					</td>
+					<td>
+						<button id="btnCos" class="operators" type="button">cos</button>
+					</td>
+					<td>
+						<button id="btnLog" class="operators" type="button">Log</button>
+					</td>
+					<td>
+						<button id="btnFour" class="operands" type="button">4</button>
+					</td>
+					<td>
+						<button id="btnFive" class="operands" type="button">5</button>
+					</td>
+					<td>
+						<button id="btnSix" class="operands" type="button">6</button>
+					</td>
+					<td>
+						<button id="btnMult" class="operators" type="button">*</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="btnE" class="operators" type="button">e</button>
+					</td>
+					<td>
+						<button id="btnTan" class="operators" type="button">Tan</button>
+					</td>
+					<td>
+						<button id="btnSqurt" class="operators" type="button">Sqrt</button>
+					</td>
+						<td>
+						<button id="btnOne" class="operands" type="button">1</button>
+					</td>
+					<td>
+						<button id="btnTwo" class="operands" type="button">2</button>
+					</td>
+					<td>
+						<button id="btnThree" class="operands" type="button">3</button>
+					</td>
+					<td>
+						<button id="btnMin" class="operators" type="button">-</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="btnAns" class="operators" type="button">Ans</button>
+					</td>
+					<td>
+						<button id="btnExp" class="operators" type="button">EXP</button>
+					</td>
+					<td>
+						<button id="btnXtoY" class="operators" type="button">x^y</button>
+					</td>
+						<td>
+						<button id="btnZero" class="operands" type="button">0</button>
+					</td>
+					<td>
+						<button id="btnPoint" class="operands" type="button">.</button>
+					</td>
+					<td>
+						<button id="btnEqual" type="submit">=</button>
+					</td>
+					<td>
+						<button id="btnPlus" class="operators" type="button">+</button>
+					</td>
+				</tr>
+		</table>
+		</p>	
+		<header aria-label="Header content" role="banner"><button data-win-control="WinJS.UI.BackButton"></button></header>
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿body {
+}
+
+#wrapper {
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-right: 2%;
+}
+
+#menu {
+	margin-top: 2%;
+}
+
+#txtNumber {
+	width: 15%;
+}
+
+#txtResult {
+	width: 100%;
+	text-align: right;
+}
+
+#lblCalculation {
+	width: 100%;
+	text-align: right;
+}
+
+.operators {
+	background-color: gray;
+}
+
+.operands {
+	background-color: firebrick;
+}
+
+#menu {
+	width: 100%;
+}
+
+#menu a{
+	padding: 0px 3px;
+}
+
+#menu a:hover{
+	color: bisque;
+	animation: rotate 5s;
+}
+
+@keyframes rotate {
+	from{ transform: rotate(0deg)}
+	to{ transform: rotate(360deg)}
+}
+
